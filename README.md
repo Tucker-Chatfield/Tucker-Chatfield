@@ -39,8 +39,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/tucker-chatfield-9b6035ab"><img src=""/></a>
-<a href="mailto:tucker.chatfield@gmail.com"><img src=""/></a>
-<a href="https://instagram.com/tucker.chatfield"><img src=""/></a>
-<a href="https://facebook.com/tucker.chatfield"><img src=""/></a>
+<a href="www.linkedin.com/in/tucker-chatfield-9b6035ab"><img src="https://img.shields.io/badge/-Tucker_Chatfield-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tucker.chatfield@gmail.com"><img src="https://img.shields.io/badge/-tucker.chatfield@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/tucker.chatfield"><img src="https://img.shields.io/badge/-@tucker.chatfield-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/tucker.chatfield"><img src="https://img.shields.io/badge/-@Tucker.Chatfield-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
