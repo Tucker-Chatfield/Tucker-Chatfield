@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./new-github-header-image.png)
 
 ## 👋 &nbsp;Hey there! I'm Tucker
 
