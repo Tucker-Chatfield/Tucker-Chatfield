@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying at General Assembly Bootcamp.\
-🌱 &nbsp;I'm on track for learning more about data structures, front-end and back-end development.\
+🎓 &nbsp;I recently completed my certification at General Assembly Bootcamp. Acquired my Associates in Science 2024.\
+🌱 &nbsp;I'm always spending time learning more about data structures, front-end and back-end development.\
 ✍️ &nbsp;In my free time, I pursue Reading and Video Games as hobbies.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at tucker.chatfield@gmail.com! I'll try to respond as soon as I can.\
