@@ -27,7 +27,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-
+![Visitor Count](https://komarev.com/ghpvc/?username=tucker-chatfield&color=blue)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
